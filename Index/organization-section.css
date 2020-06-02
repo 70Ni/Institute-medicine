@@ -1,0 +1,57 @@
+.organization-body-wrapper{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    height: 70%;
+    position: relative;
+    padding: 20px;
+}
+.organization-collection-wrapper{
+    width: 100%;
+    height: 80%;
+    max-width: 1200px;
+    display: flex;
+    transform: translateY(20%);
+    margin: 0 auto;
+    margin: 0 auto;
+}
+.organization-header{
+    color: white;
+    opacity: 1;
+}.organization-paragraph{
+    color: white;
+    opacity: 0.8;
+}
+.organization-para{
+    padding-bottom: 20px;
+    padding: 10px 60px;
+    font-family: 'Roboto',sans-serif;
+    font-size: 1rem;
+    letter-spacing: .5px;
+    line-height: 1.5;
+    font-weight: 100;
+    position: relative;    
+    white-space: pre-wrap;
+    color: white;
+}
+.organization-institute{
+    flex: 2.4;
+    background-color: burlywood;
+    height: 100%;
+    margin-right: 20px;
+    background: linear-gradient(180deg,rgba(0,0,0, 0.3),rgba(0,0,0,0.8)), url('images/harley.jpg') no-repeat; 
+}
+.organization-people{
+    flex: 1;
+    background-color: lightskyblue;
+    height: 200px;
+    margin-bottom: 20px;
+    background: linear-gradient(180deg,rgba(0,0,0, 0.3),rgba(0,0,0,0.8)), url('images/Ikr.jpg') no-repeat ;
+}
+.organization-consortium{
+    flex: 1;
+    background-color: lightskyblue;
+    height: 280px;
+    margin-bottom: 20px;
+    background: linear-gradient(180deg,rgba(0,0,0, 0.3),rgba(0,0,0,0.8)), url('images/Ikr.jpg') no-repeat ; 
+}
