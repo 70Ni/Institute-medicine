@@ -176,6 +176,6 @@
 .under-line{
     width: 128px;
     height: 3px;
+    left: 30px;
     background-color: #EA4335;
-    position: relative;
 }
