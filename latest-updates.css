@@ -90,13 +90,7 @@
     height: auto;
     padding: 0px 20px;
 }
-.news-list-sections{
-    width:calc(100% * 1 / 3);
-    position: relative;
-    z-index: 2;  
-    padding: 0px 10px;
-    height: auto;
-    padding: 0px 20px;
+.news-list{
     margin-left: 20px;
     
 }
@@ -182,8 +176,6 @@
 .under-line{
     width: 128px;
     height: 3px;
-    left: 30px;
-    top: 40px;
     background-color: #EA4335;
-    position: absolute;
+    position: relative;
 }

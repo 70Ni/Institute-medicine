@@ -57,7 +57,7 @@
         justify-content: center;
 
     } */
-    .list-sections,.news-list-sections{
+    .list-sections{
         width: calc(100% * 2.5 / 3);
         margin-top: 150px;
         
@@ -85,12 +85,17 @@
         flex-direction: column;
         max-width: 500px;
     }
-    .organization-collection-wrapper-A{
+    .organization-collection-wrapper-A,.organization-collection-wrapper-B{
         padding-bottom: 20px;
+        padding: 0px 30px;
 
     }
     .research-cards{
         height: 325px;
+        margin-bottom: 20px;
+    }
+    .organization-people,.organization-consortium,.organization-institute{
+        margin-bottom: 40px;
     }
 
     .footer-list{
